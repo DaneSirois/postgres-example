@@ -18,6 +18,7 @@
   "homepage": "https://github.com/DaneSirois/postgres-example#readme",
   "dependencies": {
     "express": "^4.14.0",
+    "knex": "^0.12.6",
     "pg": "^6.1.0"
   }
 }
